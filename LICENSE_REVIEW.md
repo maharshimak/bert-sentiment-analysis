@@ -1,0 +1,1 @@
+The user attested ownership/upload rights for candidate source. No permissive license has been invented or assigned. Third-party model weights, datasets, lecture prose/images and environments are not included and retain separate upstream rights. Collaborative attribution is preserved where applicable; no exclusive ownership is asserted for team source.

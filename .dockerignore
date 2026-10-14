@@ -1,0 +1,11 @@
+.git
+.venv
+venv
+.env
+.env.*
+data
+models
+checkpoints
+outputs
+__pycache__
+.test-work
